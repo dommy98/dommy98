@@ -4,7 +4,7 @@ Hi there, Im Dominic.
 # 📊 GitHub Stats:
 # GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dommy98&theme=dark&hide_border=false)<br/>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dommy98&theme=dark&hide_border=false&v=1)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dommy98&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dommy98&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 
